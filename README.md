@@ -2,14 +2,14 @@
 A script and instructions to add keyboard text replacements for trash and perfect pokemon go IVs
 Install https://github.com/rodionovd/shortcuts/releases into /usr/local/bin
 
-Download all of this stuff from this guthub
+Download all of this stuff from this guthub (green clone or download button up and to the right)
 
 Open a Terminal
 
-type "cd " <thats a space after cd < don't type the quotes actually  
+Type "cd " <thats a space after cd < don't type the quotes actually  
 Then drag the folder that you downloaded from guthub  
 then hit return  
-then "cd PoGo-Convenience-chopped and screwed" < don't type the quotes actually  
+then "cd PoGo-Convenience-chopped\ and\ screwed" < don't type the quotes actually  
 Then hit return  
 then type chmod +x ivsmackdown.sh  
 then type ./ivsmackdown.sh  
